@@ -4,4 +4,10 @@ A curated list of awesome companies that offer their tools and services for free
 
 ## Contents
 
+- [Version Control](#version-control)
+
+## Version Control
+
+- [GitHub](https://github.com/) - Git project hosting.
+
 ## About

@@ -4,7 +4,12 @@ A curated list of awesome companies that offer their tools and services for free
 
 ## Contents
 
+- [Project Management](#project-management)
 - [Version Control](#version-control)
+
+## Project Management
+
+- [Jira](https://www.atlassian.com/software/jira) - Agile project management.
 
 ## Version Control
 
